@@ -1,5 +1,7 @@
 # 🔧 Joinzy — Lightweight ID-Based Binding System for Unity
 
+(This is a additive scene change version)
+
 **Joinzy** is a simple and modular Unity framework that enables easy connection and access to GameObjects and components across different scenes using unique string IDs.
 
 It’s designed for clean architecture, fast prototyping, and efficient multi-scene workflows — perfect for modular level loading and UI interaction.
